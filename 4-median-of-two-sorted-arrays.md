@@ -67,4 +67,4 @@ class Solution:
 ## 🔗 My Code on GitHub
 
 You can check out the full code here:  
-[👉 median-of-two-sorted-arrays.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/median-of-two-sorted-arrays.py)
+[👉 median-of-two-sorted-arrays.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/4-median-of-two-sorted-arrays.py)
