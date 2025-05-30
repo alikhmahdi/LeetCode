@@ -86,4 +86,4 @@ class Solution:
 ## 🔗 My Code on GitHub
 
 You can check out the full code here:  
-[👉 zigzag-conversion.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/zigzag-conversion.py)
+[👉 zigzag-conversion.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/6-zigzag-conversion.py)
