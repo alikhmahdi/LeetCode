@@ -78,4 +78,4 @@ Here’s a simple visual to understand how a linked list looks:
 ## 🔗 My Code on GitHub
 
 You can check out the full code here:
-[👉 linked-list.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/linked-list.py)
+[👉 linked-list.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/2-linked-list.py)
