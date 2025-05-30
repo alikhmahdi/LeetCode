@@ -75,4 +75,4 @@ class Solution:
 ## 🔗 My Code on GitHub
 
 You can check out the full code here:  
-[👉 longest-substring-without-repeating-characters.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/longest-substring-without-repeating-characters.py)
+[👉 longest-substring-without-repeating-characters.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/3-longest-substring-without-repeating-characters.py)
