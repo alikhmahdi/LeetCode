@@ -74,4 +74,4 @@ class Solution:
 
 ## 🔗 My Code on GitHub
 You can check out the full code here:  
-[👉 longest-palindromic-substring.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/longest-palindromic-substring.py)
+[👉 longest-palindromic-substring.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/5-longest-palindromic-substring.py)
