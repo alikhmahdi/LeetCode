@@ -12,7 +12,7 @@ You are given two non-empty linked lists that represent two non-negative integer
 - Each node contains a **single digit**.  
 - You need to add the two numbers and return the **sum** as a linked list.
 
-> 📚 If you're not familiar with linked lists, [check out this explanation](https://github.com/alikhmahdi/LeetCode/blob/main/linked-list.md).
+> 📚 If you're not familiar with linked lists, [check out this explanation](https://github.com/alikhmahdi/LeetCode/blob/main/2-linked-list.md).
 
 ---
 
