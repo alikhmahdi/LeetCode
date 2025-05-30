@@ -55,4 +55,4 @@ class Solution:
 ---
 
 You can find my test and submitted code here:  
-[🔗 two-sum.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/two-sum.py)
+[🔗 two-sum.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/1-two-sum.py)
