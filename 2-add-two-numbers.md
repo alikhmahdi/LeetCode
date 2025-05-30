@@ -126,4 +126,4 @@ class Solution:
 ## 🔗 My Code on GitHub
 
 You can check out the full code here:  
-[👉 add-two-numbers.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/add-two-numbers.py)
+[👉 add-two-numbers.py on GitHub](https://github.com/alikhmahdi/LeetCode/blob/main/2-add-two-numbers.py)
